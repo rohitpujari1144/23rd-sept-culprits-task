@@ -1,7 +1,7 @@
 // 1. Find the culprit
 
 // Answer:
-alert("I’m JavaScript!");
+// alert("I’m JavaScript!");
 
 // ---------------------------------------------------------------------
 
